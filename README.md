@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FutureCake
+- 👀 I’m interested in rust and web-assambly
+- 🌱 I’m currently learning data structures and algorithms with the help of rust
