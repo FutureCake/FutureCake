@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @FutureCake
 - 👀 I’m interested in rust and web-assambly
 - 🌱 I’m currently learning data structures and algorithms with the help of rust
+- 🥸 Pretty decent front-end developer with ts, js, css, html 
+- 😈 Guilty pleasure, cleaning and making data uniform
